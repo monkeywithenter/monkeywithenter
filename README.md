@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 Working on Computer Vision(Feature Matching / 3D Reconstruction / SLAM)
+- 🌱 Learning LLM & Agent
+- 📫 Email: monkeywithenter@gmail.com
+- 📕 Xiaohongshu: 回车猿
+### 🛠 Tech Stack
+Python / C++ / PyTorch / ROS
 <!--
 **monkeywithenter/monkeywithenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
